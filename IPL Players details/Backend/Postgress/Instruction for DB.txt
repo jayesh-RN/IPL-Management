@@ -1,0 +1,3 @@
+Create Database 'Postgres' (if already exists crete below schema in that)
+In postgres Database create schema 'ipl' ...
+Then in ipl's query tool run below/above  file's Pgsql code.
